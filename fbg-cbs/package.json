@@ -1,0 +1,37 @@
+{
+    "name": "fbg-cbs",
+    "version": "1.0.0",
+    "description": "modular cbs integration package",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "babel": "^6.23.0",
+        "babel-core": "^6.26.0",
+        "babel-eslint": "^8.0.2",
+        "babel-loader": "^7.1.2",
+        "eslint": "^4.11.0",
+        "jest": "^21.2.1",
+        "prettier-eslint": "^8.2.2",
+        "webpack": "^3.8.1"
+    },
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "cheerio": "^1.0.0-rc.2",
+        "lodash": "^4.17.4",
+        "moment": "^2.19.2",
+        "moment-timezone": "^0.5.14",
+        "request": "^2.83.0"
+    },
+    "jest": {
+        "bail": true,
+        "verbose": true,
+        "watchPathIgnorePatterns": [
+            "<rootDir>/node_modules",
+            "<rootDir>/download"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "extends": "eslint:recommended",
+    "parser": "babel-eslint",
+    "rules": {
+        "indent": [2, 4, { "SwitchCase": 1, "VariableDeclarator": 1 }],
+        "comma-dangle": [2, "never"],
+        "no-param-reassign": [0, { "props": false }],
+        "strict": [0],
+        "no-console": 0,
+        "quotes": ["error", "single"]
+    },
+    "env": {
+        "node": true,
+        "mocha": true,
+        "es6": true
+    }
+}

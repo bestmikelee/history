@@ -1,0 +1,3160 @@
+[
+    {
+        "Big Yellow TireIron": {
+            "href": "/teams/10",
+            "QB": [
+                {
+                    "name": "B Bortles",
+                    "href": "/players/playerpage/1749727",
+                    "playerId": "1749727"
+                },
+                {
+                    "name": "M Mariota",
+                    "href": "/players/playerpage/1880862",
+                    "playerId": "1880862"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Freeman",
+                    "href": "/players/playerpage/1824135",
+                    "playerId": "1824135"
+                },
+                {
+                    "name": "L Miller",
+                    "href": "/players/playerpage/1691169",
+                    "playerId": "1691169"
+                },
+                {
+                    "name": "M Jones",
+                    "href": "/players/playerpage/2000854",
+                    "playerId": "2000854"
+                },
+                {
+                    "name": "J Starks",
+                    "href": "/players/playerpage/1123431",
+                    "playerId": "1123431"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "T Benjamin",
+                    "href": "/players/playerpage/1630448",
+                    "playerId": "1630448"
+                },
+                {
+                    "name": "A Cooper",
+                    "href": "/players/playerpage/1984220",
+                    "playerId": "1984220"
+                },
+                {
+                    "name": "A Robinson",
+                    "href": "/players/playerpage/1889923",
+                    "playerId": "1889923"
+                },
+                {
+                    "name": "S Diggs",
+                    "href": "/players/playerpage/2000038",
+                    "playerId": "2000038"
+                },
+                {
+                    "name": "T Austin",
+                    "href": "/players/playerpage/1700338",
+                    "playerId": "1700338"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "R Rodgers",
+                    "href": "/players/playerpage/2130257",
+                    "playerId": "2130257"
+                }
+            ],
+            "K": [
+                {
+                    "name": "M Crosby",
+                    "href": "/players/playerpage/408969",
+                    "playerId": "408969"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Bengals",
+                    "href": "/players/playerpage/1907",
+                    "playerId": "1907"
+                }
+            ]
+        },
+        "Fantasy King": {
+            "href": "/teams/12",
+            "QB": [
+                {
+                    "name": "P Rivers",
+                    "href": "/players/playerpage/493041",
+                    "playerId": "493041"
+                },
+                {
+                    "name": "J Winston",
+                    "href": "/players/playerpage/1998197",
+                    "playerId": "1998197"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "T Gurley",
+                    "href": "/players/playerpage/2000877",
+                    "playerId": "2000877"
+                },
+                {
+                    "name": "M Ingram",
+                    "href": "/players/playerpage/1623793",
+                    "playerId": "1623793"
+                },
+                {
+                    "name": "D Woodhead",
+                    "href": "/players/playerpage/1616817",
+                    "playerId": "1616817"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "J Brown",
+                    "href": "/players/playerpage/2129438",
+                    "playerId": "2129438"
+                },
+                {
+                    "name": "A.J. Green",
+                    "href": "/players/playerpage/1673207",
+                    "playerId": "1673207"
+                },
+                {
+                    "name": "M Evans",
+                    "href": "/players/playerpage/1824909",
+                    "playerId": "1824909"
+                },
+                {
+                    "name": "S Smith",
+                    "href": "/players/playerpage/235157",
+                    "playerId": "235157"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "G Olsen",
+                    "href": "/players/playerpage/502524",
+                    "playerId": "502524"
+                },
+                {
+                    "name": "D Allen",
+                    "href": "/players/playerpage/1630216",
+                    "playerId": "1630216"
+                }
+            ],
+            "K": [
+                {
+                    "name": "A Vinatieri",
+                    "href": "/players/playerpage/1392",
+                    "playerId": "1392"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Vikings",
+                    "href": "/players/playerpage/1916",
+                    "playerId": "1916"
+                },
+                {
+                    "name": "Jaguars",
+                    "href": "/players/playerpage/1913",
+                    "playerId": "1913"
+                }
+            ]
+        },
+        "Lamar69ers": {
+            "href": "/teams/11",
+            "QB": [
+                {
+                    "name": "D Brees",
+                    "href": "/players/playerpage/235197",
+                    "playerId": "235197"
+                },
+                {
+                    "name": "M Ryan",
+                    "href": "/players/playerpage/420095",
+                    "playerId": "420095"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "J Hill",
+                    "href": "/players/playerpage/1984260",
+                    "playerId": "1984260"
+                },
+                {
+                    "name": "L'Veon Bell",
+                    "href": "/players/playerpage/1751828",
+                    "playerId": "1751828"
+                },
+                {
+                    "name": "D Henry",
+                    "href": "/players/playerpage/2061188",
+                    "playerId": "2061188"
+                },
+                {
+                    "name": "J Forsett",
+                    "href": "/players/playerpage/520386",
+                    "playerId": "520386"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "D Moncrief",
+                    "href": "/players/playerpage/1878014",
+                    "playerId": "1878014"
+                },
+                {
+                    "name": "K Benjamin",
+                    "href": "/players/playerpage/1860744",
+                    "playerId": "1860744"
+                },
+                {
+                    "name": "D Baldwin",
+                    "href": "/players/playerpage/1244486",
+                    "playerId": "1244486"
+                },
+                {
+                    "name": "K Aiken",
+                    "href": "/players/playerpage/1853727",
+                    "playerId": "1853727"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "B Watson",
+                    "href": "/players/playerpage/493107",
+                    "playerId": "493107"
+                },
+                {
+                    "name": "Z Miller",
+                    "href": "/players/playerpage/1674135",
+                    "playerId": "1674135"
+                }
+            ],
+            "K": [
+                {
+                    "name": "J Tucker",
+                    "href": "/players/playerpage/1985374",
+                    "playerId": "1985374"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Chiefs",
+                    "href": "/players/playerpage/1914",
+                    "playerId": "1914"
+                }
+            ]
+        },
+        "LIONS": {
+            "href": "/teams/9",
+            "QB": [
+                {
+                    "name": "E Manning",
+                    "href": "/players/playerpage/493004",
+                    "playerId": "493004"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Martin",
+                    "href": "/players/playerpage/1274369",
+                    "playerId": "1274369"
+                },
+                {
+                    "name": "J Stewart",
+                    "href": "/players/playerpage/565654",
+                    "playerId": "565654"
+                },
+                {
+                    "name": "D Johnson",
+                    "href": "/players/playerpage/1998316",
+                    "playerId": "1998316"
+                },
+                {
+                    "name": "A Abdullah",
+                    "href": "/players/playerpage/1824308",
+                    "playerId": "1824308"
+                },
+                {
+                    "name": "I Crowell",
+                    "href": "/players/playerpage/2130148",
+                    "playerId": "2130148"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "J Landry",
+                    "href": "/players/playerpage/1824833",
+                    "playerId": "1824833"
+                },
+                {
+                    "name": "J Jones",
+                    "href": "/players/playerpage/1623794",
+                    "playerId": "1623794"
+                },
+                {
+                    "name": "K Allen",
+                    "href": "/players/playerpage/1737096",
+                    "playerId": "1737096"
+                },
+                {
+                    "name": "T Lockett",
+                    "href": "/players/playerpage/1860834",
+                    "playerId": "1860834"
+                },
+                {
+                    "name": "C Coleman",
+                    "href": "/players/playerpage/2001251",
+                    "playerId": "2001251"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "Z Ertz",
+                    "href": "/players/playerpage/1685963",
+                    "playerId": "1685963"
+                }
+            ],
+            "K": [
+                {
+                    "name": "R Aguayo",
+                    "href": "/players/playerpage/2001149",
+                    "playerId": "2001149"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Patriots",
+                    "href": "/players/playerpage/1931",
+                    "playerId": "1931"
+                }
+            ]
+        },
+        "Lynch Mob #47": {
+            "href": "/teams/4",
+            "QB": [
+                {
+                    "name": "M Stafford",
+                    "href": "/players/playerpage/1114942",
+                    "playerId": "1114942"
+                },
+                {
+                    "name": "A Dalton",
+                    "href": "/players/playerpage/1125961",
+                    "playerId": "1125961"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "T Rawls",
+                    "href": "/players/playerpage/1865647",
+                    "playerId": "1865647"
+                },
+                {
+                    "name": "A Peterson",
+                    "href": "/players/playerpage/517568",
+                    "playerId": "517568"
+                },
+                {
+                    "name": "T Hightower",
+                    "href": "/players/playerpage/1277423",
+                    "playerId": "1277423"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "S Watkins",
+                    "href": "/players/playerpage/1850743",
+                    "playerId": "1850743"
+                },
+                {
+                    "name": "J Nelson",
+                    "href": "/players/playerpage/417623",
+                    "playerId": "417623"
+                },
+                {
+                    "name": "E Decker",
+                    "href": "/players/playerpage/584290",
+                    "playerId": "584290"
+                },
+                {
+                    "name": "M Wallace",
+                    "href": "/players/playerpage/559250",
+                    "playerId": "559250"
+                },
+                {
+                    "name": "P Dorsett",
+                    "href": "/players/playerpage/1836058",
+                    "playerId": "1836058"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "D Walker",
+                    "href": "/players/playerpage/1109396",
+                    "playerId": "1109396"
+                },
+                {
+                    "name": "J Graham",
+                    "href": "/players/playerpage/1691166",
+                    "playerId": "1691166"
+                }
+            ],
+            "K": [
+                {
+                    "name": "S Gostkowski",
+                    "href": "/players/playerpage/411579",
+                    "playerId": "411579"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Steelers",
+                    "href": "/players/playerpage/1922",
+                    "playerId": "1922"
+                }
+            ]
+        },
+        "Move Those Chains": {
+            "href": "/teams/6",
+            "QB": [
+                {
+                    "name": "C Newton",
+                    "href": "/players/playerpage/1273186",
+                    "playerId": "1273186"
+                },
+                {
+                    "name": "K Cousins",
+                    "href": "/players/playerpage/1272574",
+                    "playerId": "1272574"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "R Mathews",
+                    "href": "/players/playerpage/1273854",
+                    "playerId": "1273854"
+                },
+                {
+                    "name": "J Langford",
+                    "href": "/players/playerpage/1762313",
+                    "playerId": "1762313"
+                },
+                {
+                    "name": "J Ajayi",
+                    "href": "/players/playerpage/1825212",
+                    "playerId": "1825212"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "D Hopkins",
+                    "href": "/players/playerpage/1737078",
+                    "playerId": "1737078"
+                },
+                {
+                    "name": "T.Y. Hilton",
+                    "href": "/players/playerpage/1673733",
+                    "playerId": "1673733"
+                },
+                {
+                    "name": "B Marshall",
+                    "href": "/players/playerpage/426135",
+                    "playerId": "426135"
+                },
+                {
+                    "name": "M Jones",
+                    "href": "/players/playerpage/1631804",
+                    "playerId": "1631804"
+                },
+                {
+                    "name": "K White",
+                    "href": "/players/playerpage/2060558",
+                    "playerId": "2060558"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "T Kelce",
+                    "href": "/players/playerpage/1725130",
+                    "playerId": "1725130"
+                },
+                {
+                    "name": "A Gates",
+                    "href": "/players/playerpage/396811",
+                    "playerId": "396811"
+                }
+            ],
+            "K": [
+                {
+                    "name": "S Hauschka",
+                    "href": "/players/playerpage/1616746",
+                    "playerId": "1616746"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Jets",
+                    "href": "/players/playerpage/1919",
+                    "playerId": "1919"
+                }
+            ]
+        },
+        "Nice Lips": {
+            "href": "/teams/8",
+            "QB": [
+                {
+                    "name": "R Wilson",
+                    "href": "/players/playerpage/1272242",
+                    "playerId": "1272242"
+                },
+                {
+                    "name": "T Taylor",
+                    "href": "/players/playerpage/1243338",
+                    "playerId": "1243338"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "L McCoy",
+                    "href": "/players/playerpage/1243187",
+                    "playerId": "1243187"
+                },
+                {
+                    "name": "J Charles",
+                    "href": "/players/playerpage/564952",
+                    "playerId": "564952"
+                },
+                {
+                    "name": "K Williams",
+                    "href": "/players/playerpage/1860763",
+                    "playerId": "1860763"
+                },
+                {
+                    "name": "C Sims",
+                    "href": "/players/playerpage/1691483",
+                    "playerId": "1691483"
+                },
+                {
+                    "name": "T Riddick",
+                    "href": "/players/playerpage/1691614",
+                    "playerId": "1691614"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "J Maclin",
+                    "href": "/players/playerpage/1123324",
+                    "playerId": "1123324"
+                },
+                {
+                    "name": "M Floyd",
+                    "href": "/players/playerpage/1633109",
+                    "playerId": "1633109"
+                },
+                {
+                    "name": "M Crabtree",
+                    "href": "/players/playerpage/1125838",
+                    "playerId": "1125838"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "J Reed",
+                    "href": "/players/playerpage/1691412",
+                    "playerId": "1691412"
+                },
+                {
+                    "name": "L Green",
+                    "href": "/players/playerpage/1631427",
+                    "playerId": "1631427"
+                }
+            ],
+            "K": [
+                {
+                    "name": "C Boswell",
+                    "href": "/players/playerpage/1724930",
+                    "playerId": "1724930"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Broncos",
+                    "href": "/players/playerpage/1909",
+                    "playerId": "1909"
+                }
+            ]
+        },
+        "no wins": {
+            "href": "/teams/1",
+            "QB": [
+                {
+                    "name": "B Roethlisberger",
+                    "href": "/players/playerpage/493043",
+                    "playerId": "493043"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Lewis",
+                    "href": "/players/playerpage/1664753",
+                    "playerId": "1664753"
+                },
+                {
+                    "name": "E Lacy",
+                    "href": "/players/playerpage/1691422",
+                    "playerId": "1691422"
+                },
+                {
+                    "name": "R Jennings",
+                    "href": "/players/playerpage/1251717",
+                    "playerId": "1251717"
+                },
+                {
+                    "name": "C West",
+                    "href": "/players/playerpage/2130200",
+                    "playerId": "2130200"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "A Hurns",
+                    "href": "/players/playerpage/2130337",
+                    "playerId": "2130337"
+                },
+                {
+                    "name": "L Treadwell",
+                    "href": "/players/playerpage/2079899",
+                    "playerId": "2079899"
+                },
+                {
+                    "name": "D Thomas",
+                    "href": "/players/playerpage/1114965",
+                    "playerId": "1114965"
+                },
+                {
+                    "name": "S Shepard",
+                    "href": "/players/playerpage/1996786",
+                    "playerId": "1996786"
+                },
+                {
+                    "name": "T Smith",
+                    "href": "/players/playerpage/1242961",
+                    "playerId": "1242961"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "R Gronkowski",
+                    "href": "/players/playerpage/1244303",
+                    "playerId": "1244303"
+                },
+                {
+                    "name": "J Thomas",
+                    "href": "/players/playerpage/1755056",
+                    "playerId": "1755056"
+                }
+            ],
+            "K": [
+                {
+                    "name": "J Brown",
+                    "href": "/players/playerpage/395934",
+                    "playerId": "395934"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Bills",
+                    "href": "/players/playerpage/1904",
+                    "playerId": "1904"
+                }
+            ]
+        },
+        "Romophobics": {
+            "href": "/teams/2",
+            "QB": [
+                {
+                    "name": "D Carr",
+                    "href": "/players/playerpage/1664819",
+                    "playerId": "1664819"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "C.J. Anderson",
+                    "href": "/players/playerpage/1880820",
+                    "playerId": "1880820"
+                },
+                {
+                    "name": "L Murray",
+                    "href": "/players/playerpage/1637004",
+                    "playerId": "1637004"
+                },
+                {
+                    "name": "D Sproles",
+                    "href": "/players/playerpage/421419",
+                    "playerId": "421419"
+                },
+                {
+                    "name": "C Ivory",
+                    "href": "/players/playerpage/1272286",
+                    "playerId": "1272286"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "A Jeffery",
+                    "href": "/players/playerpage/1686006",
+                    "playerId": "1686006"
+                },
+                {
+                    "name": "A Brown",
+                    "href": "/players/playerpage/1272852",
+                    "playerId": "1272852"
+                },
+                {
+                    "name": "R Cobb",
+                    "href": "/players/playerpage/1632091",
+                    "playerId": "1632091"
+                },
+                {
+                    "name": "D Green-Beckham",
+                    "href": "/players/playerpage/1996129",
+                    "playerId": "1996129"
+                },
+                {
+                    "name": "D Parker",
+                    "href": "/players/playerpage/1851283",
+                    "playerId": "1851283"
+                },
+                {
+                    "name": "M Wheaton",
+                    "href": "/players/playerpage/1679942",
+                    "playerId": "1679942"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "T Eifert",
+                    "href": "/players/playerpage/1691608",
+                    "playerId": "1691608"
+                }
+            ],
+            "K": [
+                {
+                    "name": "B McManus",
+                    "href": "/players/playerpage/2058320",
+                    "playerId": "2058320"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Cardinals",
+                    "href": "/players/playerpage/1901",
+                    "playerId": "1901"
+                }
+            ]
+        },
+        "SKYHAWKS": {
+            "href": "/teams/7",
+            "QB": [
+                {
+                    "name": "A Rodgers",
+                    "href": "/players/playerpage/419780",
+                    "playerId": "419780"
+                },
+                {
+                    "name": "A Luck",
+                    "href": "/players/playerpage/1631912",
+                    "playerId": "1631912"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "C Hyde",
+                    "href": "/players/playerpage/1751883",
+                    "playerId": "1751883"
+                },
+                {
+                    "name": "E Elliott",
+                    "href": "/players/playerpage/2060769",
+                    "playerId": "2060769"
+                },
+                {
+                    "name": "T.J. Yeldon",
+                    "href": "/players/playerpage/1984224",
+                    "playerId": "1984224"
+                },
+                {
+                    "name": "G Bernard",
+                    "href": "/players/playerpage/1737248",
+                    "playerId": "1737248"
+                },
+                {
+                    "name": "K Dixon",
+                    "href": "/players/playerpage/1999385",
+                    "playerId": "1999385"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "E Sanders",
+                    "href": "/players/playerpage/564943",
+                    "playerId": "564943"
+                },
+                {
+                    "name": "W Snead",
+                    "href": "/players/playerpage/2130155",
+                    "playerId": "2130155"
+                },
+                {
+                    "name": "G Tate",
+                    "href": "/players/playerpage/1265470",
+                    "playerId": "1265470"
+                },
+                {
+                    "name": "W Fuller",
+                    "href": "/players/playerpage/2082827",
+                    "playerId": "2082827"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "G Barnidge",
+                    "href": "/players/playerpage/522814",
+                    "playerId": "522814"
+                }
+            ],
+            "K": [
+                {
+                    "name": "M Prater",
+                    "href": "/players/playerpage/1109832",
+                    "playerId": "1109832"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Seahawks",
+                    "href": "/players/playerpage/1926",
+                    "playerId": "1926"
+                }
+            ]
+        },
+        "STL PLAYAZ ": {
+            "href": "/teams/3",
+            "QB": [
+                {
+                    "name": "C Palmer",
+                    "href": "/players/playerpage/396173",
+                    "playerId": "396173"
+                },
+                {
+                    "name": "S Bradford",
+                    "href": "/players/playerpage/1123599",
+                    "playerId": "1123599"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Murray",
+                    "href": "/players/playerpage/1123691",
+                    "playerId": "1123691"
+                },
+                {
+                    "name": "D Johnson",
+                    "href": "/players/playerpage/1760290",
+                    "playerId": "1760290"
+                },
+                {
+                    "name": "M Forte",
+                    "href": "/players/playerpage/559687",
+                    "playerId": "559687"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "J Matthews",
+                    "href": "/players/playerpage/1759816",
+                    "playerId": "1759816"
+                },
+                {
+                    "name": "L Fitzgerald",
+                    "href": "/players/playerpage/492934",
+                    "playerId": "492934"
+                },
+                {
+                    "name": "J Edelman",
+                    "href": "/players/playerpage/1674116",
+                    "playerId": "1674116"
+                },
+                {
+                    "name": "V Jackson",
+                    "href": "/players/playerpage/541651",
+                    "playerId": "541651"
+                },
+                {
+                    "name": "R Randle",
+                    "href": "/players/playerpage/1679976",
+                    "playerId": "1679976"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "C Fleener",
+                    "href": "/players/playerpage/1244492",
+                    "playerId": "1244492"
+                }
+            ],
+            "K": [
+                {
+                    "name": "G Gano",
+                    "href": "/players/playerpage/558839",
+                    "playerId": "558839"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Panthers",
+                    "href": "/players/playerpage/1905",
+                    "playerId": "1905"
+                },
+                {
+                    "name": "Texans",
+                    "href": "/players/playerpage/1932",
+                    "playerId": "1932"
+                }
+            ]
+        },
+        "Tomahawk Tadpoles": {
+            "href": "/teams/5",
+            "QB": [
+                {
+                    "name": "T Romo",
+                    "href": "/players/playerpage/396886",
+                    "playerId": "396886"
+                },
+                {
+                    "name": "T Brady",
+                    "href": "/players/playerpage/187741",
+                    "playerId": "187741"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "M Gordon",
+                    "href": "/players/playerpage/1871347",
+                    "playerId": "1871347"
+                },
+                {
+                    "name": "F Gore",
+                    "href": "/players/playerpage/411568",
+                    "playerId": "411568"
+                },
+                {
+                    "name": "T Coleman",
+                    "href": "/players/playerpage/2001839",
+                    "playerId": "2001839"
+                },
+                {
+                    "name": "D Williams",
+                    "href": "/players/playerpage/423714",
+                    "playerId": "423714"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "D Bryant",
+                    "href": "/players/playerpage/1272524",
+                    "playerId": "1272524"
+                },
+                {
+                    "name": "B Cooks",
+                    "href": "/players/playerpage/1880880",
+                    "playerId": "1880880"
+                },
+                {
+                    "name": "O Beckham",
+                    "href": "/players/playerpage/1824823",
+                    "playerId": "1824823"
+                },
+                {
+                    "name": "D Funchess",
+                    "href": "/players/playerpage/2001877",
+                    "playerId": "2001877"
+                },
+                {
+                    "name": "D Jackson",
+                    "href": "/players/playerpage/559554",
+                    "playerId": "559554"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "A Seferian-Jenkins",
+                    "href": "/players/playerpage/1824731",
+                    "playerId": "1824731"
+                }
+            ],
+            "K": [
+                {
+                    "name": "D Bailey",
+                    "href": "/players/playerpage/1689664",
+                    "playerId": "1689664"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Packers",
+                    "href": "/players/playerpage/1911",
+                    "playerId": "1911"
+                }
+            ]
+        }
+    },
+    {
+        "BRONXBOMBERS #2": {
+            "href": "/teams/5",
+            "QB": [
+                {
+                    "name": "C Newton",
+                    "href": "/players/playerpage/1273186",
+                    "playerId": "1273186"
+                },
+                {
+                    "name": "B Roethlisberger",
+                    "href": "/players/playerpage/493043",
+                    "playerId": "493043"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "M Ingram",
+                    "href": "/players/playerpage/1623793",
+                    "playerId": "1623793"
+                },
+                {
+                    "name": "D Williams",
+                    "href": "/players/playerpage/423714",
+                    "playerId": "423714"
+                },
+                {
+                    "name": "T Hightower",
+                    "href": "/players/playerpage/1277423",
+                    "playerId": "1277423"
+                },
+                {
+                    "name": "L Blount",
+                    "href": "/players/playerpage/1620455",
+                    "playerId": "1620455"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "T Williams",
+                    "href": "/players/playerpage/1632384",
+                    "playerId": "1632384"
+                },
+                {
+                    "name": "B Marshall",
+                    "href": "/players/playerpage/426135",
+                    "playerId": "426135"
+                },
+                {
+                    "name": "J Maclin",
+                    "href": "/players/playerpage/1123324",
+                    "playerId": "1123324"
+                },
+                {
+                    "name": "P Dorsett",
+                    "href": "/players/playerpage/1836058",
+                    "playerId": "1836058"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "Z Ertz",
+                    "href": "/players/playerpage/1685963",
+                    "playerId": "1685963"
+                }
+            ],
+            "K": [
+                {
+                    "name": "S Gostkowski",
+                    "href": "/players/playerpage/411579",
+                    "playerId": "411579"
+                },
+                {
+                    "name": "M Crosby",
+                    "href": "/players/playerpage/408969",
+                    "playerId": "408969"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Patriots",
+                    "href": "/players/playerpage/1931",
+                    "playerId": "1931"
+                }
+            ]
+        },
+        "Cleveland Clownies": {
+            "href": "/teams/11",
+            "QB": [
+                {
+                    "name": "A Luck",
+                    "href": "/players/playerpage/1631912",
+                    "playerId": "1631912"
+                },
+                {
+                    "name": "B Osweiler",
+                    "href": "/players/playerpage/1664777",
+                    "playerId": "1664777"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "E Lacy",
+                    "href": "/players/playerpage/1691422",
+                    "playerId": "1691422"
+                },
+                {
+                    "name": "D Freeman",
+                    "href": "/players/playerpage/1824135",
+                    "playerId": "1824135"
+                },
+                {
+                    "name": "M Jones",
+                    "href": "/players/playerpage/2000854",
+                    "playerId": "2000854"
+                },
+                {
+                    "name": "A Foster",
+                    "href": "/players/playerpage/518611",
+                    "playerId": "518611"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "M Crabtree",
+                    "href": "/players/playerpage/1125838",
+                    "playerId": "1125838"
+                },
+                {
+                    "name": "J Matthews",
+                    "href": "/players/playerpage/1759816",
+                    "playerId": "1759816"
+                },
+                {
+                    "name": "K Allen",
+                    "href": "/players/playerpage/1737096",
+                    "playerId": "1737096"
+                },
+                {
+                    "name": "D Parker",
+                    "href": "/players/playerpage/1851283",
+                    "playerId": "1851283"
+                },
+                {
+                    "name": "K White",
+                    "href": "/players/playerpage/2060558",
+                    "playerId": "2060558"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "C Fleener",
+                    "href": "/players/playerpage/1244492",
+                    "playerId": "1244492"
+                }
+            ],
+            "K": [
+                {
+                    "name": "M Prater",
+                    "href": "/players/playerpage/1109832",
+                    "playerId": "1109832"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Texans",
+                    "href": "/players/playerpage/1932",
+                    "playerId": "1932"
+                }
+            ]
+        },
+        "falcons5": {
+            "href": "/teams/2",
+            "QB": [
+                {
+                    "name": "P Rivers",
+                    "href": "/players/playerpage/493041",
+                    "playerId": "493041"
+                },
+                {
+                    "name": "B Bortles",
+                    "href": "/players/playerpage/1749727",
+                    "playerId": "1749727"
+                },
+                {
+                    "name": "R Fitzpatrick",
+                    "href": "/players/playerpage/547043",
+                    "playerId": "547043"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "J Stewart",
+                    "href": "/players/playerpage/565654",
+                    "playerId": "565654"
+                },
+                {
+                    "name": "L Miller",
+                    "href": "/players/playerpage/1691169",
+                    "playerId": "1691169"
+                },
+                {
+                    "name": "R Jennings",
+                    "href": "/players/playerpage/1251717",
+                    "playerId": "1251717"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "E Decker",
+                    "href": "/players/playerpage/584290",
+                    "playerId": "584290"
+                },
+                {
+                    "name": "D Hopkins",
+                    "href": "/players/playerpage/1737078",
+                    "playerId": "1737078"
+                },
+                {
+                    "name": "D Baldwin",
+                    "href": "/players/playerpage/1244486",
+                    "playerId": "1244486"
+                },
+                {
+                    "name": "M Wheaton",
+                    "href": "/players/playerpage/1679942",
+                    "playerId": "1679942"
+                },
+                {
+                    "name": "T Benjamin",
+                    "href": "/players/playerpage/1630448",
+                    "playerId": "1630448"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "A Gates",
+                    "href": "/players/playerpage/396811",
+                    "playerId": "396811"
+                }
+            ],
+            "K": [
+                {
+                    "name": "G Gano",
+                    "href": "/players/playerpage/558839",
+                    "playerId": "558839"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Jets",
+                    "href": "/players/playerpage/1919",
+                    "playerId": "1919"
+                }
+            ]
+        },
+        "freemeeting": {
+            "href": "/teams/9",
+            "QB": [
+                {
+                    "name": "R Wilson",
+                    "href": "/players/playerpage/1272242",
+                    "playerId": "1272242"
+                },
+                {
+                    "name": "A Dalton",
+                    "href": "/players/playerpage/1125961",
+                    "playerId": "1125961"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "R Mathews",
+                    "href": "/players/playerpage/1273854",
+                    "playerId": "1273854"
+                },
+                {
+                    "name": "A Peterson",
+                    "href": "/players/playerpage/517568",
+                    "playerId": "517568"
+                },
+                {
+                    "name": "G Bernard",
+                    "href": "/players/playerpage/1737248",
+                    "playerId": "1737248"
+                },
+                {
+                    "name": "C Artis-Payne",
+                    "href": "/players/playerpage/2061215",
+                    "playerId": "2061215"
+                },
+                {
+                    "name": "A Abdullah",
+                    "href": "/players/playerpage/1824308",
+                    "playerId": "1824308"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "M Floyd",
+                    "href": "/players/playerpage/1633109",
+                    "playerId": "1633109"
+                },
+                {
+                    "name": "J Brown",
+                    "href": "/players/playerpage/2129438",
+                    "playerId": "2129438"
+                },
+                {
+                    "name": "S Watkins",
+                    "href": "/players/playerpage/1850743",
+                    "playerId": "1850743"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "L Green",
+                    "href": "/players/playerpage/1631427",
+                    "playerId": "1631427"
+                },
+                {
+                    "name": "Z Miller",
+                    "href": "/players/playerpage/1674135",
+                    "playerId": "1674135"
+                }
+            ],
+            "K": [
+                {
+                    "name": "J Brown",
+                    "href": "/players/playerpage/395934",
+                    "playerId": "395934"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Packers",
+                    "href": "/players/playerpage/1911",
+                    "playerId": "1911"
+                }
+            ]
+        },
+        "Hernandez Hit Men": {
+            "href": "/teams/10",
+            "QB": [
+                {
+                    "name": "D Brees",
+                    "href": "/players/playerpage/235197",
+                    "playerId": "235197"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Lewis",
+                    "href": "/players/playerpage/1664753",
+                    "playerId": "1664753"
+                },
+                {
+                    "name": "J Ajayi",
+                    "href": "/players/playerpage/1825212",
+                    "playerId": "1825212"
+                },
+                {
+                    "name": "C Hyde",
+                    "href": "/players/playerpage/1751883",
+                    "playerId": "1751883"
+                },
+                {
+                    "name": "C West",
+                    "href": "/players/playerpage/2130200",
+                    "playerId": "2130200"
+                },
+                {
+                    "name": "K Williams",
+                    "href": "/players/playerpage/1860763",
+                    "playerId": "1860763"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "D Bryant",
+                    "href": "/players/playerpage/1272524",
+                    "playerId": "1272524"
+                },
+                {
+                    "name": "A Jeffery",
+                    "href": "/players/playerpage/1686006",
+                    "playerId": "1686006"
+                },
+                {
+                    "name": "J Jones",
+                    "href": "/players/playerpage/1623794",
+                    "playerId": "1623794"
+                },
+                {
+                    "name": "S Shepard",
+                    "href": "/players/playerpage/1996786",
+                    "playerId": "1996786"
+                },
+                {
+                    "name": "W Snead",
+                    "href": "/players/playerpage/2130155",
+                    "playerId": "2130155"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "E Ebron",
+                    "href": "/players/playerpage/1865396",
+                    "playerId": "1865396"
+                }
+            ],
+            "K": [
+                {
+                    "name": "A Vinatieri",
+                    "href": "/players/playerpage/1392",
+                    "playerId": "1392"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Chiefs",
+                    "href": "/players/playerpage/1914",
+                    "playerId": "1914"
+                }
+            ]
+        },
+        "Nemesis": {
+            "href": "/teams/7",
+            "QB": [
+                {
+                    "name": "J Winston",
+                    "href": "/players/playerpage/1998197",
+                    "playerId": "1998197"
+                },
+                {
+                    "name": "M Sanchez",
+                    "href": "/players/playerpage/559373",
+                    "playerId": "559373"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "T Gurley",
+                    "href": "/players/playerpage/2000877",
+                    "playerId": "2000877"
+                },
+                {
+                    "name": "J Langford",
+                    "href": "/players/playerpage/1762313",
+                    "playerId": "1762313"
+                },
+                {
+                    "name": "C Sims",
+                    "href": "/players/playerpage/1691483",
+                    "playerId": "1691483"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "K Benjamin",
+                    "href": "/players/playerpage/1860744",
+                    "playerId": "1860744"
+                },
+                {
+                    "name": "D Thomas",
+                    "href": "/players/playerpage/1114965",
+                    "playerId": "1114965"
+                },
+                {
+                    "name": "T Lockett",
+                    "href": "/players/playerpage/1860834",
+                    "playerId": "1860834"
+                },
+                {
+                    "name": "K Britt",
+                    "href": "/players/playerpage/1115016",
+                    "playerId": "1115016"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "J Graham",
+                    "href": "/players/playerpage/1691166",
+                    "playerId": "1691166"
+                },
+                {
+                    "name": "J Witten",
+                    "href": "/players/playerpage/396134",
+                    "playerId": "396134"
+                }
+            ],
+            "K": [
+                {
+                    "name": "C Santos",
+                    "href": "/players/playerpage/2132690",
+                    "playerId": "2132690"
+                },
+                {
+                    "name": "B Walsh",
+                    "href": "/players/playerpage/1632083",
+                    "playerId": "1632083"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Broncos",
+                    "href": "/players/playerpage/1909",
+                    "playerId": "1909"
+                }
+            ]
+        },
+        "Nittany Lyin'": {
+            "href": "/teams/3",
+            "QB": [
+                {
+                    "name": "M Mariota",
+                    "href": "/players/playerpage/1880862",
+                    "playerId": "1880862"
+                },
+                {
+                    "name": "M Ryan",
+                    "href": "/players/playerpage/420095",
+                    "playerId": "420095"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "L Murray",
+                    "href": "/players/playerpage/1637004",
+                    "playerId": "1637004"
+                },
+                {
+                    "name": "M Forte",
+                    "href": "/players/playerpage/559687",
+                    "playerId": "559687"
+                },
+                {
+                    "name": "C Ivory",
+                    "href": "/players/playerpage/1272286",
+                    "playerId": "1272286"
+                },
+                {
+                    "name": "Z Zenner",
+                    "href": "/players/playerpage/1825662",
+                    "playerId": "1825662"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "J Nelson",
+                    "href": "/players/playerpage/417623",
+                    "playerId": "417623"
+                },
+                {
+                    "name": "A Brown",
+                    "href": "/players/playerpage/1272852",
+                    "playerId": "1272852"
+                },
+                {
+                    "name": "A Robinson",
+                    "href": "/players/playerpage/1889923",
+                    "playerId": "1889923"
+                },
+                {
+                    "name": "A Hurns",
+                    "href": "/players/playerpage/2130337",
+                    "playerId": "2130337"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "D Walker",
+                    "href": "/players/playerpage/1109396",
+                    "playerId": "1109396"
+                },
+                {
+                    "name": "T Eifert",
+                    "href": "/players/playerpage/1691608",
+                    "playerId": "1691608"
+                }
+            ],
+            "K": [
+                {
+                    "name": "J Tucker",
+                    "href": "/players/playerpage/1985374",
+                    "playerId": "1985374"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Steelers",
+                    "href": "/players/playerpage/1922",
+                    "playerId": "1922"
+                }
+            ]
+        },
+        "Raider Nation": {
+            "href": "/teams/1",
+            "QB": [
+                {
+                    "name": "D Carr",
+                    "href": "/players/playerpage/1664819",
+                    "playerId": "1664819"
+                },
+                {
+                    "name": "T Brady",
+                    "href": "/players/playerpage/187741",
+                    "playerId": "187741"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "T Rawls",
+                    "href": "/players/playerpage/1865647",
+                    "playerId": "1865647"
+                },
+                {
+                    "name": "E Elliott",
+                    "href": "/players/playerpage/2060769",
+                    "playerId": "2060769"
+                },
+                {
+                    "name": "J Howard",
+                    "href": "/players/playerpage/2083294",
+                    "playerId": "2083294"
+                },
+                {
+                    "name": "J Allen",
+                    "href": "/players/playerpage/1851113",
+                    "playerId": "1851113"
+                },
+                {
+                    "name": "M Gordon",
+                    "href": "/players/playerpage/1871347",
+                    "playerId": "1871347"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "D Jackson",
+                    "href": "/players/playerpage/559554",
+                    "playerId": "559554"
+                },
+                {
+                    "name": "A Cooper",
+                    "href": "/players/playerpage/1984220",
+                    "playerId": "1984220"
+                },
+                {
+                    "name": "J Landry",
+                    "href": "/players/playerpage/1824833",
+                    "playerId": "1824833"
+                },
+                {
+                    "name": "C Coleman",
+                    "href": "/players/playerpage/2001251",
+                    "playerId": "2001251"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "G Olsen",
+                    "href": "/players/playerpage/502524",
+                    "playerId": "502524"
+                }
+            ],
+            "K": [
+                {
+                    "name": "D Bailey",
+                    "href": "/players/playerpage/1689664",
+                    "playerId": "1689664"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Cardinals",
+                    "href": "/players/playerpage/1901",
+                    "playerId": "1901"
+                }
+            ]
+        },
+        "sb5": {
+            "href": "/teams/8",
+            "QB": [
+                {
+                    "name": "A Rodgers",
+                    "href": "/players/playerpage/419780",
+                    "playerId": "419780"
+                },
+                {
+                    "name": "M Stafford",
+                    "href": "/players/playerpage/1114942",
+                    "playerId": "1114942"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Murray",
+                    "href": "/players/playerpage/1123691",
+                    "playerId": "1123691"
+                },
+                {
+                    "name": "D Johnson",
+                    "href": "/players/playerpage/1760290",
+                    "playerId": "1760290"
+                },
+                {
+                    "name": "I Crowell",
+                    "href": "/players/playerpage/2130148",
+                    "playerId": "2130148"
+                },
+                {
+                    "name": "T.J. Yeldon",
+                    "href": "/players/playerpage/1984224",
+                    "playerId": "1984224"
+                },
+                {
+                    "name": "C.J. Prosise",
+                    "href": "/players/playerpage/2005662",
+                    "playerId": "2005662"
+                },
+                {
+                    "name": "D Woodhead",
+                    "href": "/players/playerpage/1616817",
+                    "playerId": "1616817"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "T Austin",
+                    "href": "/players/playerpage/1700338",
+                    "playerId": "1700338"
+                },
+                {
+                    "name": "J Edelman",
+                    "href": "/players/playerpage/1674116",
+                    "playerId": "1674116"
+                },
+                {
+                    "name": "M Evans",
+                    "href": "/players/playerpage/1824909",
+                    "playerId": "1824909"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "G Barnidge",
+                    "href": "/players/playerpage/522814",
+                    "playerId": "522814"
+                }
+            ],
+            "K": [
+                {
+                    "name": "C Catanzaro",
+                    "href": "/players/playerpage/2130276",
+                    "playerId": "2130276"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Vikings",
+                    "href": "/players/playerpage/1916",
+                    "playerId": "1916"
+                }
+            ]
+        },
+        "Swift 2": {
+            "href": "/teams/4",
+            "QB": [
+                {
+                    "name": "T Romo",
+                    "href": "/players/playerpage/396886",
+                    "playerId": "396886"
+                },
+                {
+                    "name": "K Cousins",
+                    "href": "/players/playerpage/1272574",
+                    "playerId": "1272574"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "J Hill",
+                    "href": "/players/playerpage/1984260",
+                    "playerId": "1984260"
+                },
+                {
+                    "name": "L McCoy",
+                    "href": "/players/playerpage/1243187",
+                    "playerId": "1243187"
+                },
+                {
+                    "name": "D Henry",
+                    "href": "/players/playerpage/2061188",
+                    "playerId": "2061188"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "O Beckham",
+                    "href": "/players/playerpage/1824823",
+                    "playerId": "1824823"
+                },
+                {
+                    "name": "A.J. Green",
+                    "href": "/players/playerpage/1673207",
+                    "playerId": "1673207"
+                },
+                {
+                    "name": "R Cobb",
+                    "href": "/players/playerpage/1632091",
+                    "playerId": "1632091"
+                },
+                {
+                    "name": "M Jones",
+                    "href": "/players/playerpage/1631804",
+                    "playerId": "1631804"
+                },
+                {
+                    "name": "K Aiken",
+                    "href": "/players/playerpage/1853727",
+                    "playerId": "1853727"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "T Kelce",
+                    "href": "/players/playerpage/1725130",
+                    "playerId": "1725130"
+                },
+                {
+                    "name": "J Thomas",
+                    "href": "/players/playerpage/1755056",
+                    "playerId": "1755056"
+                }
+            ],
+            "K": [
+                {
+                    "name": "S Hauschka",
+                    "href": "/players/playerpage/1616746",
+                    "playerId": "1616746"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Panthers",
+                    "href": "/players/playerpage/1905",
+                    "playerId": "1905"
+                }
+            ]
+        },
+        "Team Lazr Explosion": {
+            "href": "/teams/6",
+            "QB": [
+                {
+                    "name": "E Manning",
+                    "href": "/players/playerpage/493004",
+                    "playerId": "493004"
+                },
+                {
+                    "name": "T Taylor",
+                    "href": "/players/playerpage/1243338",
+                    "playerId": "1243338"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Martin",
+                    "href": "/players/playerpage/1274369",
+                    "playerId": "1274369"
+                },
+                {
+                    "name": "L'Veon Bell",
+                    "href": "/players/playerpage/1751828",
+                    "playerId": "1751828"
+                },
+                {
+                    "name": "D Johnson",
+                    "href": "/players/playerpage/1998316",
+                    "playerId": "1998316"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "L Fitzgerald",
+                    "href": "/players/playerpage/492934",
+                    "playerId": "492934"
+                },
+                {
+                    "name": "G Tate",
+                    "href": "/players/playerpage/1265470",
+                    "playerId": "1265470"
+                },
+                {
+                    "name": "B Cooks",
+                    "href": "/players/playerpage/1880880",
+                    "playerId": "1880880"
+                },
+                {
+                    "name": "J Doctson",
+                    "href": "/players/playerpage/1825087",
+                    "playerId": "1825087"
+                },
+                {
+                    "name": "T Ginn",
+                    "href": "/players/playerpage/502737",
+                    "playerId": "502737"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "J Reed",
+                    "href": "/players/playerpage/1691412",
+                    "playerId": "1691412"
+                },
+                {
+                    "name": "D Allen",
+                    "href": "/players/playerpage/1630216",
+                    "playerId": "1630216"
+                }
+            ],
+            "K": [
+                {
+                    "name": "C Boswell",
+                    "href": "/players/playerpage/1724930",
+                    "playerId": "1724930"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Bills",
+                    "href": "/players/playerpage/1904",
+                    "playerId": "1904"
+                }
+            ]
+        },
+        "you reds": {
+            "href": "/teams/12",
+            "QB": [
+                {
+                    "name": "C Palmer",
+                    "href": "/players/playerpage/396173",
+                    "playerId": "396173"
+                },
+                {
+                    "name": "J Cutler",
+                    "href": "/players/playerpage/409102",
+                    "playerId": "409102"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "C.J. Anderson",
+                    "href": "/players/playerpage/1880820",
+                    "playerId": "1880820"
+                },
+                {
+                    "name": "J Charles",
+                    "href": "/players/playerpage/564952",
+                    "playerId": "564952"
+                },
+                {
+                    "name": "F Gore",
+                    "href": "/players/playerpage/411568",
+                    "playerId": "411568"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "E Sanders",
+                    "href": "/players/playerpage/564943",
+                    "playerId": "564943"
+                },
+                {
+                    "name": "D Moncrief",
+                    "href": "/players/playerpage/1878014",
+                    "playerId": "1878014"
+                },
+                {
+                    "name": "T.Y. Hilton",
+                    "href": "/players/playerpage/1673733",
+                    "playerId": "1673733"
+                },
+                {
+                    "name": "V Jackson",
+                    "href": "/players/playerpage/541651",
+                    "playerId": "541651"
+                },
+                {
+                    "name": "L Treadwell",
+                    "href": "/players/playerpage/2079899",
+                    "playerId": "2079899"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "R Gronkowski",
+                    "href": "/players/playerpage/1244303",
+                    "playerId": "1244303"
+                },
+                {
+                    "name": "M Bennett",
+                    "href": "/players/playerpage/564954",
+                    "playerId": "564954"
+                }
+            ],
+            "K": [
+                {
+                    "name": "B McManus",
+                    "href": "/players/playerpage/2058320",
+                    "playerId": "2058320"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Seahawks",
+                    "href": "/players/playerpage/1926",
+                    "playerId": "1926"
+                }
+            ]
+        }
+    },
+    {
+        "ARROWHEAD'S FINEST": {
+            "href": "/teams/6",
+            "QB": [
+                {
+                    "name": "D Brees",
+                    "href": "/players/playerpage/235197",
+                    "playerId": "235197"
+                },
+                {
+                    "name": "K Cousins",
+                    "href": "/players/playerpage/1272574",
+                    "playerId": "1272574"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "R Jennings",
+                    "href": "/players/playerpage/1251717",
+                    "playerId": "1251717"
+                },
+                {
+                    "name": "D Johnson",
+                    "href": "/players/playerpage/1760290",
+                    "playerId": "1760290"
+                },
+                {
+                    "name": "A Abdullah",
+                    "href": "/players/playerpage/1824308",
+                    "playerId": "1824308"
+                },
+                {
+                    "name": "B Powell",
+                    "href": "/players/playerpage/1265393",
+                    "playerId": "1265393"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "B Cooks",
+                    "href": "/players/playerpage/1880880",
+                    "playerId": "1880880"
+                },
+                {
+                    "name": "D Bryant",
+                    "href": "/players/playerpage/1272524",
+                    "playerId": "1272524"
+                },
+                {
+                    "name": "M Floyd",
+                    "href": "/players/playerpage/1633109",
+                    "playerId": "1633109"
+                },
+                {
+                    "name": "S Shepard",
+                    "href": "/players/playerpage/1996786",
+                    "playerId": "1996786"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "J Graham",
+                    "href": "/players/playerpage/1691166",
+                    "playerId": "1691166"
+                },
+                {
+                    "name": "E Ebron",
+                    "href": "/players/playerpage/1865396",
+                    "playerId": "1865396"
+                }
+            ],
+            "K": [
+                {
+                    "name": "C Catanzaro",
+                    "href": "/players/playerpage/2130276",
+                    "playerId": "2130276"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Cardinals",
+                    "href": "/players/playerpage/1901",
+                    "playerId": "1901"
+                }
+            ]
+        },
+        "bullies": {
+            "href": "/teams/1",
+            "QB": [
+                {
+                    "name": "R Wilson",
+                    "href": "/players/playerpage/1272242",
+                    "playerId": "1272242"
+                },
+                {
+                    "name": "J Flacco",
+                    "href": "/players/playerpage/1250697",
+                    "playerId": "1250697"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "C Ivory",
+                    "href": "/players/playerpage/1272286",
+                    "playerId": "1272286"
+                },
+                {
+                    "name": "J Charles",
+                    "href": "/players/playerpage/564952",
+                    "playerId": "564952"
+                },
+                {
+                    "name": "D Johnson",
+                    "href": "/players/playerpage/1998316",
+                    "playerId": "1998316"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "T Lockett",
+                    "href": "/players/playerpage/1860834",
+                    "playerId": "1860834"
+                },
+                {
+                    "name": "J Edelman",
+                    "href": "/players/playerpage/1674116",
+                    "playerId": "1674116"
+                },
+                {
+                    "name": "A Robinson",
+                    "href": "/players/playerpage/1889923",
+                    "playerId": "1889923"
+                },
+                {
+                    "name": "T Benjamin",
+                    "href": "/players/playerpage/1630448",
+                    "playerId": "1630448"
+                },
+                {
+                    "name": "M Jones",
+                    "href": "/players/playerpage/1631804",
+                    "playerId": "1631804"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "G Barnidge",
+                    "href": "/players/playerpage/522814",
+                    "playerId": "522814"
+                }
+            ],
+            "K": [
+                {
+                    "name": "G Gano",
+                    "href": "/players/playerpage/558839",
+                    "playerId": "558839"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Packers",
+                    "href": "/players/playerpage/1911",
+                    "playerId": "1911"
+                },
+                {
+                    "name": "Patriots",
+                    "href": "/players/playerpage/1931",
+                    "playerId": "1931"
+                }
+            ]
+        },
+        "CARDS": {
+            "href": "/teams/12",
+            "QB": [
+                {
+                    "name": "A Rodgers",
+                    "href": "/players/playerpage/419780",
+                    "playerId": "419780"
+                },
+                {
+                    "name": "B Osweiler",
+                    "href": "/players/playerpage/1664777",
+                    "playerId": "1664777"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "M Forte",
+                    "href": "/players/playerpage/559687",
+                    "playerId": "559687"
+                },
+                {
+                    "name": "C.J. Anderson",
+                    "href": "/players/playerpage/1880820",
+                    "playerId": "1880820"
+                },
+                {
+                    "name": "G Bernard",
+                    "href": "/players/playerpage/1737248",
+                    "playerId": "1737248"
+                },
+                {
+                    "name": "J Allen",
+                    "href": "/players/playerpage/1851113",
+                    "playerId": "1851113"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "J Brown",
+                    "href": "/players/playerpage/2129438",
+                    "playerId": "2129438"
+                },
+                {
+                    "name": "T.Y. Hilton",
+                    "href": "/players/playerpage/1673733",
+                    "playerId": "1673733"
+                },
+                {
+                    "name": "J Nelson",
+                    "href": "/players/playerpage/417623",
+                    "playerId": "417623"
+                },
+                {
+                    "name": "D Jackson",
+                    "href": "/players/playerpage/559554",
+                    "playerId": "559554"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "A Gates",
+                    "href": "/players/playerpage/396811",
+                    "playerId": "396811"
+                },
+                {
+                    "name": "D Allen",
+                    "href": "/players/playerpage/1630216",
+                    "playerId": "1630216"
+                }
+            ],
+            "K": [
+                {
+                    "name": "M Crosby",
+                    "href": "/players/playerpage/408969",
+                    "playerId": "408969"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Steelers",
+                    "href": "/players/playerpage/1922",
+                    "playerId": "1922"
+                }
+            ]
+        },
+        "Knights": {
+            "href": "/teams/9",
+            "QB": [
+                {
+                    "name": "C Palmer",
+                    "href": "/players/playerpage/396173",
+                    "playerId": "396173"
+                },
+                {
+                    "name": "A Dalton",
+                    "href": "/players/playerpage/1125961",
+                    "playerId": "1125961"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "L McCoy",
+                    "href": "/players/playerpage/1243187",
+                    "playerId": "1243187"
+                },
+                {
+                    "name": "J Hill",
+                    "href": "/players/playerpage/1984260",
+                    "playerId": "1984260"
+                },
+                {
+                    "name": "K Dixon",
+                    "href": "/players/playerpage/1999385",
+                    "playerId": "1999385"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "V Jackson",
+                    "href": "/players/playerpage/541651",
+                    "playerId": "541651"
+                },
+                {
+                    "name": "D Hopkins",
+                    "href": "/players/playerpage/1737078",
+                    "playerId": "1737078"
+                },
+                {
+                    "name": "L Fitzgerald",
+                    "href": "/players/playerpage/492934",
+                    "playerId": "492934"
+                },
+                {
+                    "name": "V Cruz",
+                    "href": "/players/playerpage/1684073",
+                    "playerId": "1684073"
+                },
+                {
+                    "name": "D Moncrief",
+                    "href": "/players/playerpage/1878014",
+                    "playerId": "1878014"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "J Witten",
+                    "href": "/players/playerpage/396134",
+                    "playerId": "396134"
+                },
+                {
+                    "name": "M Bennett",
+                    "href": "/players/playerpage/564954",
+                    "playerId": "564954"
+                }
+            ],
+            "K": [
+                {
+                    "name": "J Brown",
+                    "href": "/players/playerpage/395934",
+                    "playerId": "395934"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Jets",
+                    "href": "/players/playerpage/1919",
+                    "playerId": "1919"
+                }
+            ]
+        },
+        "LSU": {
+            "href": "/teams/7",
+            "QB": [
+                {
+                    "name": "M Stafford",
+                    "href": "/players/playerpage/1114942",
+                    "playerId": "1114942"
+                },
+                {
+                    "name": "M Mariota",
+                    "href": "/players/playerpage/1880862",
+                    "playerId": "1880862"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "F Gore",
+                    "href": "/players/playerpage/411568",
+                    "playerId": "411568"
+                },
+                {
+                    "name": "D Lewis",
+                    "href": "/players/playerpage/1664753",
+                    "playerId": "1664753"
+                },
+                {
+                    "name": "M Jones",
+                    "href": "/players/playerpage/2000854",
+                    "playerId": "2000854"
+                },
+                {
+                    "name": "J Langford",
+                    "href": "/players/playerpage/1762313",
+                    "playerId": "1762313"
+                },
+                {
+                    "name": "D Williams",
+                    "href": "/players/playerpage/423714",
+                    "playerId": "423714"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "A.J. Green",
+                    "href": "/players/playerpage/1673207",
+                    "playerId": "1673207"
+                },
+                {
+                    "name": "K Allen",
+                    "href": "/players/playerpage/1737096",
+                    "playerId": "1737096"
+                },
+                {
+                    "name": "J Jones",
+                    "href": "/players/playerpage/1623794",
+                    "playerId": "1623794"
+                },
+                {
+                    "name": "T Smith",
+                    "href": "/players/playerpage/1242961",
+                    "playerId": "1242961"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "J Thomas",
+                    "href": "/players/playerpage/1755056",
+                    "playerId": "1755056"
+                }
+            ],
+            "K": [
+                {
+                    "name": "A Vinatieri",
+                    "href": "/players/playerpage/1392",
+                    "playerId": "1392"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Texans",
+                    "href": "/players/playerpage/1932",
+                    "playerId": "1932"
+                }
+            ]
+        },
+        "My Wilkshake Bring all the Boy": {
+            "href": "/teams/4",
+            "QB": [
+                {
+                    "name": "P Rivers",
+                    "href": "/players/playerpage/493041",
+                    "playerId": "493041"
+                },
+                {
+                    "name": "T Taylor",
+                    "href": "/players/playerpage/1243338",
+                    "playerId": "1243338"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "T Rawls",
+                    "href": "/players/playerpage/1865647",
+                    "playerId": "1865647"
+                },
+                {
+                    "name": "E Lacy",
+                    "href": "/players/playerpage/1691422",
+                    "playerId": "1691422"
+                },
+                {
+                    "name": "T Riddick",
+                    "href": "/players/playerpage/1691614",
+                    "playerId": "1691614"
+                },
+                {
+                    "name": "I Crowell",
+                    "href": "/players/playerpage/2130148",
+                    "playerId": "2130148"
+                },
+                {
+                    "name": "C Sims",
+                    "href": "/players/playerpage/1691483",
+                    "playerId": "1691483"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "A Hurns",
+                    "href": "/players/playerpage/2130337",
+                    "playerId": "2130337"
+                },
+                {
+                    "name": "A Jeffery",
+                    "href": "/players/playerpage/1686006",
+                    "playerId": "1686006"
+                },
+                {
+                    "name": "A Brown",
+                    "href": "/players/playerpage/1272852",
+                    "playerId": "1272852"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "D Walker",
+                    "href": "/players/playerpage/1109396",
+                    "playerId": "1109396"
+                },
+                {
+                    "name": "Z Ertz",
+                    "href": "/players/playerpage/1685963",
+                    "playerId": "1685963"
+                }
+            ],
+            "K": [
+                {
+                    "name": "B McManus",
+                    "href": "/players/playerpage/2058320",
+                    "playerId": "2058320"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Vikings",
+                    "href": "/players/playerpage/1916",
+                    "playerId": "1916"
+                }
+            ]
+        },
+        "Panic Attack": {
+            "href": "/teams/3",
+            "QB": [
+                {
+                    "name": "A Luck",
+                    "href": "/players/playerpage/1631912",
+                    "playerId": "1631912"
+                },
+                {
+                    "name": "T Brady",
+                    "href": "/players/playerpage/187741",
+                    "playerId": "187741"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "T Gurley",
+                    "href": "/players/playerpage/2000877",
+                    "playerId": "2000877"
+                },
+                {
+                    "name": "L Murray",
+                    "href": "/players/playerpage/1637004",
+                    "playerId": "1637004"
+                },
+                {
+                    "name": "D Woodhead",
+                    "href": "/players/playerpage/1616817",
+                    "playerId": "1616817"
+                },
+                {
+                    "name": "T.J. Yeldon",
+                    "href": "/players/playerpage/1984224",
+                    "playerId": "1984224"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "A Cooper",
+                    "href": "/players/playerpage/1984220",
+                    "playerId": "1984220"
+                },
+                {
+                    "name": "E Decker",
+                    "href": "/players/playerpage/584290",
+                    "playerId": "584290"
+                },
+                {
+                    "name": "L Treadwell",
+                    "href": "/players/playerpage/2079899",
+                    "playerId": "2079899"
+                },
+                {
+                    "name": "S Smith",
+                    "href": "/players/playerpage/235157",
+                    "playerId": "235157"
+                },
+                {
+                    "name": "C Coleman",
+                    "href": "/players/playerpage/2001251",
+                    "playerId": "2001251"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "C Fleener",
+                    "href": "/players/playerpage/1244492",
+                    "playerId": "1244492"
+                }
+            ],
+            "K": [
+                {
+                    "name": "D Bailey",
+                    "href": "/players/playerpage/1689664",
+                    "playerId": "1689664"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Panthers",
+                    "href": "/players/playerpage/1905",
+                    "playerId": "1905"
+                }
+            ]
+        },
+        "polyester prince": {
+            "href": "/teams/8",
+            "QB": [
+                {
+                    "name": "J Winston",
+                    "href": "/players/playerpage/1998197",
+                    "playerId": "1998197"
+                },
+                {
+                    "name": "D Carr",
+                    "href": "/players/playerpage/1664819",
+                    "playerId": "1664819"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "L Miller",
+                    "href": "/players/playerpage/1691169",
+                    "playerId": "1691169"
+                },
+                {
+                    "name": "A Peterson",
+                    "href": "/players/playerpage/517568",
+                    "playerId": "517568"
+                },
+                {
+                    "name": "C Artis-Payne",
+                    "href": "/players/playerpage/2061215",
+                    "playerId": "2061215"
+                },
+                {
+                    "name": "J Howard",
+                    "href": "/players/playerpage/2083294",
+                    "playerId": "2083294"
+                },
+                {
+                    "name": "T Hightower",
+                    "href": "/players/playerpage/1277423",
+                    "playerId": "1277423"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "G Tate",
+                    "href": "/players/playerpage/1265470",
+                    "playerId": "1265470"
+                },
+                {
+                    "name": "B Marshall",
+                    "href": "/players/playerpage/426135",
+                    "playerId": "426135"
+                },
+                {
+                    "name": "J Matthews",
+                    "href": "/players/playerpage/1759816",
+                    "playerId": "1759816"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "G Olsen",
+                    "href": "/players/playerpage/502524",
+                    "playerId": "502524"
+                },
+                {
+                    "name": "T Eifert",
+                    "href": "/players/playerpage/1691608",
+                    "playerId": "1691608"
+                }
+            ],
+            "K": [
+                {
+                    "name": "S Hauschka",
+                    "href": "/players/playerpage/1616746",
+                    "playerId": "1616746"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Seahawks",
+                    "href": "/players/playerpage/1926",
+                    "playerId": "1926"
+                }
+            ]
+        },
+        "Shin Se-kyung": {
+            "href": "/teams/11",
+            "QB": [
+                {
+                    "name": "C Newton",
+                    "href": "/players/playerpage/1273186",
+                    "playerId": "1273186"
+                },
+                {
+                    "name": "B Bortles",
+                    "href": "/players/playerpage/1749727",
+                    "playerId": "1749727"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "R Mathews",
+                    "href": "/players/playerpage/1273854",
+                    "playerId": "1273854"
+                },
+                {
+                    "name": "E Elliott",
+                    "href": "/players/playerpage/2060769",
+                    "playerId": "2060769"
+                },
+                {
+                    "name": "J Stewart",
+                    "href": "/players/playerpage/565654",
+                    "playerId": "565654"
+                },
+                {
+                    "name": "L Blount",
+                    "href": "/players/playerpage/1620455",
+                    "playerId": "1620455"
+                },
+                {
+                    "name": "J Starks",
+                    "href": "/players/playerpage/1123431",
+                    "playerId": "1123431"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "E Sanders",
+                    "href": "/players/playerpage/564943",
+                    "playerId": "564943"
+                },
+                {
+                    "name": "R Cobb",
+                    "href": "/players/playerpage/1632091",
+                    "playerId": "1632091"
+                },
+                {
+                    "name": "D Baldwin",
+                    "href": "/players/playerpage/1244486",
+                    "playerId": "1244486"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "L Green",
+                    "href": "/players/playerpage/1631427",
+                    "playerId": "1631427"
+                },
+                {
+                    "name": "A Seferian-Jenkins",
+                    "href": "/players/playerpage/1824731",
+                    "playerId": "1824731"
+                }
+            ],
+            "K": [
+                {
+                    "name": "J Tucker",
+                    "href": "/players/playerpage/1985374",
+                    "playerId": "1985374"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Bills",
+                    "href": "/players/playerpage/1904",
+                    "playerId": "1904"
+                }
+            ]
+        },
+        "Tennessee smokey": {
+            "href": "/teams/2",
+            "QB": [
+                {
+                    "name": "T Romo",
+                    "href": "/players/playerpage/396886",
+                    "playerId": "396886"
+                },
+                {
+                    "name": "A Smith",
+                    "href": "/players/playerpage/552642",
+                    "playerId": "552642"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "M Ingram",
+                    "href": "/players/playerpage/1623793",
+                    "playerId": "1623793"
+                },
+                {
+                    "name": "L'Veon Bell",
+                    "href": "/players/playerpage/1751828",
+                    "playerId": "1751828"
+                },
+                {
+                    "name": "C.J. Prosise",
+                    "href": "/players/playerpage/2005662",
+                    "playerId": "2005662"
+                },
+                {
+                    "name": "M Gordon",
+                    "href": "/players/playerpage/1871347",
+                    "playerId": "1871347"
+                },
+                {
+                    "name": "J Forsett",
+                    "href": "/players/playerpage/520386",
+                    "playerId": "520386"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "K Benjamin",
+                    "href": "/players/playerpage/1860744",
+                    "playerId": "1860744"
+                },
+                {
+                    "name": "T Austin",
+                    "href": "/players/playerpage/1700338",
+                    "playerId": "1700338"
+                },
+                {
+                    "name": "M Evans",
+                    "href": "/players/playerpage/1824909",
+                    "playerId": "1824909"
+                },
+                {
+                    "name": "K White",
+                    "href": "/players/playerpage/2060558",
+                    "playerId": "2060558"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "J Reed",
+                    "href": "/players/playerpage/1691412",
+                    "playerId": "1691412"
+                }
+            ],
+            "K": [
+                {
+                    "name": "M Nugent",
+                    "href": "/players/playerpage/552599",
+                    "playerId": "552599"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Broncos",
+                    "href": "/players/playerpage/1909",
+                    "playerId": "1909"
+                }
+            ]
+        },
+        "Titanfan2012": {
+            "href": "/teams/5",
+            "QB": [
+                {
+                    "name": "E Manning",
+                    "href": "/players/playerpage/493004",
+                    "playerId": "493004"
+                },
+                {
+                    "name": "M Ryan",
+                    "href": "/players/playerpage/420095",
+                    "playerId": "420095"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Sproles",
+                    "href": "/players/playerpage/421419",
+                    "playerId": "421419"
+                },
+                {
+                    "name": "D Martin",
+                    "href": "/players/playerpage/1274369",
+                    "playerId": "1274369"
+                },
+                {
+                    "name": "C West",
+                    "href": "/players/playerpage/2130200",
+                    "playerId": "2130200"
+                },
+                {
+                    "name": "C Hyde",
+                    "href": "/players/playerpage/1751883",
+                    "playerId": "1751883"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "J Landry",
+                    "href": "/players/playerpage/1824833",
+                    "playerId": "1824833"
+                },
+                {
+                    "name": "J Maclin",
+                    "href": "/players/playerpage/1123324",
+                    "playerId": "1123324"
+                },
+                {
+                    "name": "O Beckham",
+                    "href": "/players/playerpage/1824823",
+                    "playerId": "1824823"
+                },
+                {
+                    "name": "T Williams",
+                    "href": "/players/playerpage/1632384",
+                    "playerId": "1632384"
+                },
+                {
+                    "name": "W Snead",
+                    "href": "/players/playerpage/2130155",
+                    "playerId": "2130155"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "T Kelce",
+                    "href": "/players/playerpage/1725130",
+                    "playerId": "1725130"
+                }
+            ],
+            "K": [
+                {
+                    "name": "C Boswell",
+                    "href": "/players/playerpage/1724930",
+                    "playerId": "1724930"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Chiefs",
+                    "href": "/players/playerpage/1914",
+                    "playerId": "1914"
+                }
+            ]
+        },
+        "U R History": {
+            "href": "/teams/10",
+            "QB": [
+                {
+                    "name": "B Roethlisberger",
+                    "href": "/players/playerpage/493043",
+                    "playerId": "493043"
+                },
+                {
+                    "name": "J Cutler",
+                    "href": "/players/playerpage/409102",
+                    "playerId": "409102"
+                }
+            ],
+            "RB": [
+                {
+                    "name": "D Freeman",
+                    "href": "/players/playerpage/1824135",
+                    "playerId": "1824135"
+                },
+                {
+                    "name": "D Murray",
+                    "href": "/players/playerpage/1123691",
+                    "playerId": "1123691"
+                },
+                {
+                    "name": "J Ajayi",
+                    "href": "/players/playerpage/1825212",
+                    "playerId": "1825212"
+                },
+                {
+                    "name": "T Coleman",
+                    "href": "/players/playerpage/2001839",
+                    "playerId": "2001839"
+                }
+            ],
+            "WR": [
+                {
+                    "name": "D Thomas",
+                    "href": "/players/playerpage/1114965",
+                    "playerId": "1114965"
+                },
+                {
+                    "name": "M Crabtree",
+                    "href": "/players/playerpage/1125838",
+                    "playerId": "1125838"
+                },
+                {
+                    "name": "S Watkins",
+                    "href": "/players/playerpage/1850743",
+                    "playerId": "1850743"
+                },
+                {
+                    "name": "D Parker",
+                    "href": "/players/playerpage/1851283",
+                    "playerId": "1851283"
+                },
+                {
+                    "name": "M Wheaton",
+                    "href": "/players/playerpage/1679942",
+                    "playerId": "1679942"
+                }
+            ],
+            "TE": [
+                {
+                    "name": "R Gronkowski",
+                    "href": "/players/playerpage/1244303",
+                    "playerId": "1244303"
+                }
+            ],
+            "K": [
+                {
+                    "name": "S Gostkowski",
+                    "href": "/players/playerpage/411579",
+                    "playerId": "411579"
+                }
+            ],
+            "DST": [
+                {
+                    "name": "Bengals",
+                    "href": "/players/playerpage/1907",
+                    "playerId": "1907"
+                }
+            ]
+        }
+    },
+    {
+        "Team 1": {
+            "href": "/teams/1",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 10": {
+            "href": "/teams/10",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 2": {
+            "href": "/teams/2",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 3": {
+            "href": "/teams/3",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 4": {
+            "href": "/teams/4",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 5": {
+            "href": "/teams/5",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 6": {
+            "href": "/teams/6",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 7": {
+            "href": "/teams/7",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 8": {
+            "href": "/teams/8",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        },
+        "Team 9": {
+            "href": "/teams/9",
+            "QB": [],
+            "RB": [],
+            "WR": [],
+            "TE": [],
+            "K": [],
+            "DST": []
+        }
+    }
+]

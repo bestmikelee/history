@@ -1,0 +1,567 @@
+{
+  "#P": {
+    "cat": "PASS",
+    "stat": "TD",
+    "op": "*",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "PS": {
+    "cat": "PASS",
+    "stat": "TD",
+    "op": "*",
+    "range": true,
+    "instance": true,
+    "positions": [],
+    "priority": 0
+  },
+  "PY": {
+    "cat": "PASS",
+    "stat": "YDS",
+    "op": "*",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "PA": {
+    "cat": "PASS",
+    "stat": "ATT",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "PC": {
+    "cat": "PASS",
+    "stat": "CMP",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "INC": {
+    "cat": "PASS",
+    "stat": "ICM",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "IN": {
+    "cat": "PASS",
+    "stat": "INT",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "TSK": {
+    "cat": "PASS",
+    "stat": "SCK",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "P20": {
+    "cat": "PASS",
+    "stat": "YDS",
+    "op": "+",
+    "range": {
+      "min": 20
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "P30": {
+    "cat": "PASS",
+    "stat": "YDS",
+    "op": "+",
+    "range": {
+      "min": 30
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "P40": {
+    "cat": "PASS",
+    "stat": "YDS",
+    "op": "+",
+    "range": {
+      "min": 40
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "P50": {
+    "cat": "PASS",
+    "stat": "YDS",
+    "op": "",
+    "range": {
+      "min": 50
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "P2": {
+    "cat": "PASS",
+    "stat": "2PT",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#R": {
+    "cat": "RUSH",
+    "stat": "TD",
+    "op": "*",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "RS": {
+    "cat": "RUSH",
+    "stat": "TD",
+    "op": "*",
+    "range": true,
+    "instance": true,
+    "positions": [],
+    "priority": 0
+  },
+  "RY": {
+    "cat": "RUSH",
+    "stat": "YDS",
+    "op": "*",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "RA": {
+    "cat": "RUSH",
+    "stat": "CAR",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "R20": {
+    "cat": "RUSH",
+    "stat": "YDS",
+    "op": "+",
+    "range": {
+      "min": 20
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "R40": {
+    "cat": "RUSH",
+    "stat": "YDS",
+    "op": "+",
+    "range": {
+      "min": 40
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "R2": {
+    "cat": "RUSH",
+    "stat": "2PT",
+    "op": "*",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#C": {
+    "cat": "REC",
+    "stat": "TD",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "RC": {
+    "cat": "REC",
+    "stat": "TD",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "CY": {
+    "cat": "REC",
+    "stat": "YDS",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "CC": {
+    "cat": "REC",
+    "stat": "REC",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "C20": {
+    "cat": "REC",
+    "stat": "YDS",
+    "op": "",
+    "range": {
+      "min": 20
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "C40": {
+    "cat": "REC",
+    "stat": "YDS",
+    "op": "",
+    "range": {
+      "min": 40
+    },
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "C2": {
+    "cat": "REC",
+    "stat": "2PT",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#F": {
+    "cat": "KCK",
+    "stat": "FGC",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FG": {
+    "cat": "KCK",
+    "stat": "FGC",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#M": {
+    "cat": "KCK",
+    "stat": "FGM",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "MG": {
+    "cat": "KCK",
+    "stat": "FGM",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "EP": {
+    "cat": "KCK",
+    "stat": "XPC",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "EM": {
+    "cat": "KCK",
+    "stat": "XPM",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#UT": {
+    "cat": "PR",
+    "stat": "TD",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "UY": {
+    "cat": "PR",
+    "stat": "YDS",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#KT": {
+    "cat": "KR",
+    "stat": "TD",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "KY": {
+    "cat": "KR",
+    "stat": "YDS",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FU": {
+    "cat": "FUM",
+    "stat": "FUM",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FUO": {
+    "cat": "FUM",
+    "stat": "FUM",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FUS": {
+    "cat": "FUM",
+    "stat": "FUM",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FUD": {
+    "cat": "FUM",
+    "stat": "FUM",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FL": {
+    "cat": "FUM",
+    "stat": "LOST",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FLO": {
+    "cat": "FUM",
+    "stat": "LOST",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 1
+  },
+  "FLS": {
+    "cat": "FUM",
+    "stat": "LOST",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 2
+  },
+  "FLD": {
+    "cat": "FUM",
+    "stat": "LOST",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 3
+  },
+  "#DR": {
+    "cat": "FUM",
+    "stat": "TD",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FC": {
+    "cat": "TMD",
+    "stat": "FMR",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FCD": {
+    "cat": "TMD",
+    "stat": "FMR",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "FF": {
+    "cat": "IDP",
+    "stat": "FMF",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#IR": {
+    "cat": "IDP",
+    "stat": "TD",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "IC": {
+    "cat": ["IDP", "TMD"],
+    "stat": "INT",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "PD": {
+    "cat": "IDP",
+    "stat": "PD",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "BLF": {
+    "cat": ["IDP", "TMD"],
+    "stat": "BLK",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "BLE": {
+    "cat": ["IDP", "TMD"],
+    "stat": "BLK",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 1
+  },
+  "TKD": {
+    "cat": "IDP",
+    "stat": "TAC",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "ASD": {
+    "cat": "IDP",
+    "stat": "AST",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "SK": {
+    "cat": ["IDP", "TMD"],
+    "stat": "SCK",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "SF": {
+    "cat": ["IDP", "TMD"],
+    "stat": "SAF",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "TPA": {
+    "cat": "TMD",
+    "stat": "PA",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "TYA": {
+    "cat": "TMD",
+    "stat": "YA",
+    "op": "",
+    "range": true,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  },
+  "#T": {
+    "cat": "TMD",
+    "stat": "TD",
+    "op": "",
+    "range": false,
+    "instance": false,
+    "positions": [],
+    "priority": 0
+  }
+}

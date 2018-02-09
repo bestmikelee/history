@@ -1,0 +1,111 @@
+[
+    {
+        "3003": {
+            "1": {
+                "teamName": "JGS_HM",
+                "roster": [
+                    {
+                        "firstName": "Antonio",
+                        "lastName": "Brown",
+                        "positionCode": "WR",
+                        "nflTeam": "PIT ",
+                        "rosterStatus": "Starter",
+                        "bgsPlayerID": "9253 ",
+                        "statsForeignKey": "24171",
+                        "statsGlobalIDForeignKey": "406214",
+                        "tsnForeignKey": "l.nfl.com-p.8974",
+                        "sportsDataForeignKey": "16e33176-b73e-49b7-b0aa-c405b47a706e"
+                    }
+                ]
+            },
+            "2": {
+                "teamName": "BB_BGS",
+                "roster": [
+                    {
+                        "firstName": "Dez",
+                        "lastName": "Bryant",
+                        "positionCode": "WR",
+                        "nflTeam": "DAL ",
+                        "rosterStatus": "Starter",
+                        "bgsPlayerID": "T0735",
+                        "statsForeignKey": "23999",
+                        "statsGlobalIDForeignKey": "397499",
+                        "tsnForeignKey": "l.nfl.com-p.8831",
+                        "sportsDataForeignKey": "b84fb536-9705-45a9-b652-92a33578ac48"
+                    }
+                ]
+            },
+            "3": {
+                "teamName": "JGS_BGS",
+                "roster": [
+                    null
+                ]
+            },
+            "4": {
+                "teamName": "DAVE_FFPC",
+                "roster": [
+                    null
+                ]
+            },
+            "5": {
+                "teamName": "ALEX_FFPC",
+                "roster": [
+                    null
+                ]
+            },
+            "6": {
+                "teamName": "TAI_BGS",
+                "roster": [
+                    null
+                ]
+            },
+            "7": {
+                "teamName": "BB_GMAIL",
+                "roster": [
+                    null
+                ]
+            },
+            "8": {
+                "teamName": "BB_COMCAST",
+                "roster": [
+                    null
+                ]
+            },
+            "9": {
+                "teamName": "BB_YAHOO",
+                "roster": [
+                    null
+                ]
+            },
+            "10": {
+                "teamName": "BB_FC",
+                "roster": [
+                    null
+                ]
+            },
+            "11": {
+                "teamName": "JGS_FC",
+                "roster": [
+                    null
+                ]
+            },
+            "12": {
+                "teamName": "TAI_FC",
+                "roster": [
+                    {
+                        "firstName": "Rob",
+                        "lastName": "Gronkowski",
+                        "positionCode": "TE",
+                        "nflTeam": "NE  ",
+                        "rosterStatus": "Starter",
+                        "bgsPlayerID": "T0742",
+                        "statsForeignKey": "24017",
+                        "statsGlobalIDForeignKey": "381091",
+                        "tsnForeignKey": "l.nfl.com-p.8896",
+                        "sportsDataForeignKey": "2142a164-48ad-47d6-bb27-0bc58c6b2e62"
+                    }
+                ]
+            }
+        }
+    }
+]

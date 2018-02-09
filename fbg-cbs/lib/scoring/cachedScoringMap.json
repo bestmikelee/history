@@ -1,0 +1,374 @@
+{
+  "ATK": {
+    "full": "Assisted Tackles (ID only)",
+    "stat": "AST",
+    "cat": "IDP",
+    "op": "*"
+  },
+  "BFB": {
+    "full": "Blocked Field Goals (ID/ST/DST)",
+    "stat": "BLK",
+    "cat": ["IDP", "TMD"],
+    "op": "*",
+    "pts": null
+  },
+  "BP": {
+    "full": "Blocked Punts (ID/ST/DST)",
+    "stat": "BLK",
+    "cat": ["IDP", "TMD"],
+    "op": "*",
+    "pts": null
+  },
+  "BXP": {
+    "full": "Blocked Extra Points (ID/ST/DST)",
+    "stat": "BLK",
+    "cat": ["IDP", "TMD"],
+    "op": "*",
+    "pts": null
+  },
+  "DFR": {
+    "full": "Defensive/ST Fumble Recovered (ID/DT/DST)",
+    "stat": "FMR",
+    "cat": ["IDP", "TMD"],
+    "op": "",
+    "pts": null
+  },
+  "DFTD": {
+    "full": "Defensive TDIntTD + DFRTD",
+    "stat": "TD",
+    "cat": "TMD",
+    "op": "",
+    "pts": null
+  },
+  "DPA": {
+    "full": "Defensive Points Against*",
+    "stat": "PA",
+    "cat": "TMD",
+    "range": true,
+    "op": "",
+    "pts": null
+  },
+  "DSTPA": {
+    "full": "Points Against Defense/ST*",
+    "stat": "PA",
+    "cat": "TMD",
+    "range": true,
+    "op": "",
+    "pts": null
+  },
+  "DTD": {
+    "full":
+      "Total Defensive and Special Teams TDIntTD + PRTD + KRTD + DFRTD + BFTD + BPTD + SFRTD",
+    "stat": "TD",
+    "cat": "TMD",
+    "op": "",
+    "pts": null,
+    "notes": "Need to spit out PRTD, KRTD, FRTD, INTTD, BLKKRTD"
+  },
+  "FF": {
+    "full": "Forced Fumble",
+    "stat": "FMF",
+    "cat": ["IDP", "TMD"],
+    "op": "",
+    "pts": null
+  },
+  "Int": {
+    "full": "Interceptions",
+    "stat": "INT",
+    "cat": ["IDP", "TMD"],
+    "op": "",
+    "pts": null
+  },
+  "KRTD": {
+    "full": "Kick Return TD (ID/ST/DST)",
+    "stat": "TD",
+    "cat": "KR",
+    "op": "",
+    "pts": null
+  },
+  "KRYd": {
+    "full": "Kick Return Yards (ID/ST/DST)",
+    "stat": "YDS",
+    "cat": "KR",
+    "op": "",
+    "pts": null
+  },
+  "PA": {
+    "full": "Points Against, Total Points Scored*",
+    "stat": "PA",
+    "cat": "TMD",
+    "range": true,
+    "op": "",
+    "pts": null
+  },
+  "PDef": {
+    "full": "Pass Defensed (ID only)",
+    "stat": "PD",
+    "cat": "IDP",
+    "op": "",
+    "pts": null
+  },
+  "PRTD": {
+    "full": "Punt Return TD (ID/ST/DST)",
+    "stat": "TD",
+    "cat": "PR",
+    "op": "",
+    "pts": null
+  },
+  "PRYd": {
+    "full": "Punt Return Yards (ID/ST/DST)",
+    "stat": "YDS",
+    "cat": "PR",
+    "range": true,
+    "op": "",
+    "pts": null
+  },
+  "PaNetA": {
+    "full": "Net Passing Yards Against*",
+    "stat": "YA",
+    "cat": "TMD",
+    "op": "",
+    "range": true,
+    "pts": null
+  },
+  "SACK": {
+    "full": "Sack",
+    "stat": "SCK",
+    "cat": ["TMD", "IDP"],
+    "op": "",
+    "pts": null
+  },
+  "STY": {
+    "full": "Safety",
+    "stat": "SAF",
+    "cat": ["TMD", "IDP"],
+    "op": "",
+    "pts": null
+  },
+  "TK": {
+    "full": "Tackle (ID/DT/DST)",
+    "stat": "TAC",
+    "cat": "IDP",
+    "op": "",
+    "pts": null
+  },
+  "YDS": {
+    "full": "Yards Allowed*PaNetA + RuYdA",
+    "stat": "YA",
+    "cat": "TMD",
+    "op": "",
+    "range": true,
+    "pts": null
+  },
+  "FG": {
+    "full": "Field Goals",
+    "stat": "FGC",
+    "cat": "KCK",
+    "range": true,
+    "op": "",
+    "pts": null
+  },
+  "FG50": {
+    "full": "Field Goals 50+ Yards Made",
+    "stat": "FGC",
+    "cat": "KCK",
+    "range": {
+      "min": 50
+    },
+    "op": "",
+    "pts": null
+  },
+  "FL": {
+    "full": "Fumble Lost, Including ST plays*",
+    "stat": "FUM",
+    "cat": "FUM",
+    "op": "",
+    "pts": null
+  },
+  "MFG": {
+    "full": "Missed Field Goal*FGA - FG",
+    "stat": "FGM",
+    "cat": "KCK",
+    "op": "",
+    "pts": null
+  },
+  "MXP": {
+    "full": "Missed Extra Point*XPAtt - XP",
+    "stat": "XPM",
+    "cat": "KCK",
+    "op": "",
+    "pts": null
+  },
+  "Pa20": {
+    "full": "Pass Completion 20+ Yards",
+    "stat": "CMP",
+    "cat": "PASS",
+    "range": {
+      "min": 20
+    },
+    "op": "",
+    "pts": null
+  },
+  "Pa2P": {
+    "full": "Passing Two-point Conversion",
+    "stat": "2PT",
+    "cat": "PASS",
+    "op": "",
+    "pts": null
+  },
+  "Pa40": {
+    "full": "Pass Completion 40+ Yards",
+    "stat": "CMP",
+    "cat": "PASS",
+    "range": {
+      "min": 40
+    },
+    "op": "",
+    "pts": null
+  },
+  "PaAtt": {
+    "full": "Passing Attempt",
+    "stat": "ATT",
+    "cat": "PASS",
+    "op": "",
+    "pts": null
+  },
+  "PaCmp": {
+    "full": "Passing Completion",
+    "stat": "CMP",
+    "cat": "PASS",
+    "op": "",
+    "pts": null
+  },
+  "PaInt": {
+    "full": "Passing Interception",
+    "stat": "INT",
+    "cat": "PASS",
+    "op": "",
+    "pts": null
+  },
+  "PaTD": {
+    "full": "Passing TD",
+    "stat": "TD",
+    "cat": "PASS",
+    "op": "",
+    "pts": null
+  },
+  "PaYd": {
+    "full": "Passing Yards",
+    "stat": "YDS",
+    "cat": "PASS",
+    "range": true,
+    "op": "",
+    "pts": null
+  },
+  "Re20": {
+    "full": "Reception of 20+ Yards",
+    "stat": "YDS",
+    "cat": "REC",
+    "range": {
+      "min": 20
+    },
+    "op": "",
+    "pts": null
+  },
+  "Re2P": {
+    "full": "Receiving Two-point Conversion",
+    "stat": "2PT",
+    "cat": "REC",
+    "op": "",
+    "pts": null
+  },
+  "Re40": {
+    "full": "Reception of 40+ Yards",
+    "stat": "YDS",
+    "cat": "REC",
+    "range": {
+      "min": 40
+    },
+    "op": "",
+    "pts": null
+  },
+  "ReTD": {
+    "full": "Receiving TD",
+    "stat": "TD",
+    "cat": "REC",
+    "op": "",
+    "pts": null
+  },
+  "ReYd": {
+    "full": "Receiving Yards",
+    "stat": "YDS",
+    "cat": "REC",
+    "op": "",
+    "range": true,
+    "pts": null
+  },
+  "Recpt": {
+    "full": "Reception",
+    "stat": "REC",
+    "cat": "REC",
+    "op": "",
+    "pts": null
+  },
+  "Ru20": {
+    "full": "Rush for 20+ Yards",
+    "stat": "YDS",
+    "cat": "RUSH",
+    "range": {
+      "min": 20
+    },
+    "op": "",
+    "pts": null
+  },
+  "Ru2P": {
+    "full": "Rushing Two-point Conversion",
+    "stat": "2PT",
+    "cat": "RUSH",
+    "op": "",
+    "pts": null
+  },
+  "RuAtt": {
+    "full": "Rushing Attempt",
+    "stat": "CAR",
+    "cat": "RUSH",
+    "op": "",
+    "pts": null
+  },
+  "RuTD": {
+    "full": "Rushing TD",
+    "stat": "TD",
+    "cat": "RUSH",
+    "op": "",
+    "pts": null
+  },
+  "RuYd": {
+    "full": "Rushing Yards",
+    "stat": "YDS",
+    "cat": "RUSH",
+    "range": true,
+    "op": "",
+    "pts": null
+  },
+  "Sacked": {
+    "full": "Times Sacked Passer",
+    "stat": "SCK",
+    "cat": "PASS",
+    "op": "",
+    "pts": null
+  },
+  "TF": {
+    "full": "Total Fumbles*",
+    "stat": "FUM",
+    "cat": "FUM",
+    "op": "",
+    "pts": null
+  },
+  "XP": {
+    "full": "Extra Points",
+    "stat": "XPC",
+    "cat": "KCK",
+    "op": "",
+    "pts": null
+  }
+}
